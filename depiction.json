@@ -1,0 +1,17 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.4",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Automatically installs the **Settings app matching your iOS version**. Supports **26.0**, **27.0**, **27.0.1**, and **27.2**.\n\nNeed another iOS version? Contact **the.big.mango** on Discord or [create an issue](https://github.com/the-big-mango/repo/issues/new).\n\n[Repo](https://the-big-mango.github.io/repo/) \u00b7 [GitHub](https://github.com/the-big-mango)",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

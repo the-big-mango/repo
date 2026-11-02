@@ -1,0 +1,9 @@
+Origin: Mango
+Label: Mango
+Suite: stable
+Architectures: iphoneos-arm64e
+Components: main
+Description: Mango repo
+SHA256:
+ 27dd4dce5d50399a26f5f17a21bb17d396829b3b1823fb721674a5be0877a2f5 915 Packages
+ 45265e43903f9eb98d27fe740b71ab56c6e4e41289cb12c2db5ed5b1e99c695c 526 Packages.gz

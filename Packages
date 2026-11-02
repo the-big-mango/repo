@@ -1,0 +1,23 @@
+Package: com.mango.settings
+Name: Settings
+Version: 27.2-12
+Architecture: iphoneos-arm64e
+Maintainer: the-big-mango
+Section: System
+Priority: optional
+Conflicts: com.local.settings-recovery
+Replaces: com.local.settings-recovery
+Homepage: https://github.com/the-big-mango/repo
+SileoDepiction: https://the-big-mango.github.io/repo/depiction.json?v=auto-27.2-12
+Description: Automatically installs the Settings app matching your iOS version.
+ Supports iOS 26.0, 27.0, 27.0.1, and 27.2.
+ Request another version: the.big.mango on Discord or
+ https://github.com/the-big-mango/repo/issues/new
+ .
+ [Repo](https://the-big-mango.github.io/repo/) | [GitHub](https://github.com/the-big-mango)
+Filename: com.mango.settings_27.2-12_iphoneos-arm64e.deb
+Size: 8607706
+MD5sum: ebc4b5a329fa1639e1cb1adcf00981cd
+SHA1: 3d8ce712afa60fb95576d6acb3f511543f8a5224
+SHA256: a93751f443cbc0cfb2c9a63aafe33a8520a9c96e35c29b6e2e239fd71a0e39f1
+
