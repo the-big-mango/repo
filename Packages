@@ -21,3 +21,45 @@ MD5sum: ebc4b5a329fa1639e1cb1adcf00981cd
 SHA1: 3d8ce712afa60fb95576d6acb3f511543f8a5224
 SHA256: a93751f443cbc0cfb2c9a63aafe33a8520a9c96e35c29b6e2e239fd71a0e39f1
 
+Package: me.mango.gravitation
+Name: Gravitation
+Version: 0.2.0-13
+Architecture: iphoneos-arm64
+Maintainer: the-big-mango
+Author: kritanta (the-big-mango)
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: me.kritanta.gravitation
+Homepage: https://github.com/the-big-mango/repo
+SileoDepiction: https://the-big-mango.github.io/repo/gravitation.json
+Description: Shake your device to give Home Screen icons gravity.
+ Targeted at iOS 27.0.1; should work on other devices, but untested.
+ Modified port of Gravitation by kritanta.
+Finish: restart
+Filename: me.mango.gravitation_0.2.0-13_iphoneos-arm64.deb
+Size: 40300
+MD5sum: e270df84e06327d9c20af51daca01dbc
+SHA1: f3ed6ae967a8a825a906b1d65b8f06fe0893c3b6
+SHA256: ccafc563e2e2ccae384e86075e9414030e32aff577efedcbd88fb577f162cf4f
+
+Package: me.mango.gravitation
+Name: Gravitation
+Version: 0.2.0-13
+Architecture: iphoneos-arm64e
+Maintainer: the-big-mango
+Author: kritanta (the-big-mango)
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: me.kritanta.gravitation
+Homepage: https://github.com/the-big-mango/repo
+SileoDepiction: https://the-big-mango.github.io/repo/gravitation.json
+Description: Shake your device to give Home Screen icons gravity.
+ Targeted at iOS 27.0.1; should work on other devices, but untested.
+ Modified port of Gravitation by kritanta.
+Finish: restart
+Filename: me.mango.gravitation_0.2.0-13_iphoneos-arm64e.deb
+Size: 40250
+MD5sum: 21378f570ca96c90b5e348c0557a378b
+SHA1: 1b0af045dead5015ccd19434c4164b27d1e13a66
+SHA256: a404775ab20ca56976bbde8c399199fc8c41d954bb0f0c6c2a56fd8ba14f7dc9
+

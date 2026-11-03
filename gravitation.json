@@ -1,0 +1,17 @@
+{
+  "class": "DepictionTabView",
+  "minVersion": "0.4",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Shake your device to give Home Screen icons **gravity**. Tilt to move them, touch to attract them, and shake again to restore.\n\nTargeted at **iOS 27.0.1**; should work on other devices, but **untested**.\n\n**Creator:** kritanta (the-big-mango)\n\nModified port of Gravitation by kritanta.\n\n[Repo](https://the-big-mango.github.io/repo/) \u00b7 [GitHub](https://github.com/the-big-mango)",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}
